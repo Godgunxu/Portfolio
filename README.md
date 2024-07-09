@@ -4,7 +4,7 @@ You can fork this repository to modify and make changes of your own. Please give
 
 ## Built With
 
-My personal portfolio, which features some of my GitHub projects, as well as my resume and technical skills. Check it out at [my portfolio](https://soumyajit.vercel.app/).
+My personal portfolio, which features some of my GitHub projects, as well as my resume and technical skills.
 
 This project was built using these technologies:
 
